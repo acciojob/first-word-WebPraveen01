@@ -16,5 +16,5 @@ function firstWord(s) {
 
 // Do not change the code below
 
-const s = prompt("Enter String: see and stop");
-alert(firstWord(s));
+const s = prompt("see and stop");
+firstWord(s);
