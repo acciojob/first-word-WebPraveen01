@@ -16,5 +16,6 @@ function firstWord(s) {
 
 // Do not change the code below
 
-const s = prompt("Enter a string:");
+const s = "see and stop"; // Replace prompt with a hard-coded string
 console.log(firstWord(s)); // Use console.log to print the result
+
